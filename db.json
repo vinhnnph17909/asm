@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Trà Sữa Goky Menu Cập Nhập 2021",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645499470/w2bfbsk1wa3pxfteehhf.jpg",
+      "desc": "Trà Nhật Bản (8 vị)\nBao gồm: Trà sữa Goky – Trà sữa Kuri – Socola Tokyo – Trà sữa Match Kyoto – Socola Aomori – Trà sữa Hokaido – Trà sữa Hoa Anh Đào – Hồng trà sữa Hakushaku"
+    },
+    {
+      "title": "Trà sữa Goky – thưởng thức tinh hoa trà đến từ Nhật Bản",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645499576/ddgrsol9ree2mdobzpug.png",
+      "desc": "Trà sữa Goky là một thương hiệu trà sữa đến từ đất nước mặt trời mọc –Nhật Bản, và mang hương vị hoàn toàn mới lạ và khác biệt.\nChính tính cách tỉ mỉ, cẩn thận, chăm chút cho từng sản phẩm của người Nhật đã tạo nên những ly trà chất lượng, chỉ cần một lần thưởng thức, sẽ khó lòng quên được.",
+      "id": 3
+    },
+    {
+      "title": "Trà sữa Goky và câu chuyện khởi nghiệp thành công của chàng trai 97",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645499760/uoqprmls3s7fl4eufesu.jpg",
+      "desc": "Trà sữa Goky và câu chuyện khởi nghiệp thành công của chàng trai 97",
+      "id": 4
+    },
+    {
+      "title": " Thử uống trà sữa Goky, đại diện Nhật Bản tại Việt Nam",
+      "img": "http://res.cloudinary.com/ecommercer2021/image/upload/v1645499900/lujawncjxmfazgbdhw68.jpg",
+      "desc": "Thế nhưng, khi nghe nói Goky, trà sữa với hương vị Nhật Bản sẽ bắt đầu đóng đô ở quê mình, những kẻ vốn từng bén duyên với trà sữa như chúng tôi cũng có chút tò mò. Một phần vì đam mê ăn uống, phần vì không muốn để bản thân trở nên quê kiểng trước dăm ba cái thứ trào lưu hiện đại, cả đám quyết định rút ví tròn đúng 200 nghìn, mua tất thảy 4 cốc trà Goky về thử. ",
+      "id": 5
+    }
+  ],
+  "categoryPosts": [
+    {
+      "id": 1,
+      "name": "Danh muc bai viet 1"
+    },
+    {
+      "id": 2,
+      "name": "Danh muc bai viet 2"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$a0/z9dDn1EU92K3Q2vYSFu5cICbN6khbqz3wvPfXjLHof4J41N1.K",
+      "id": 1
+    },
+    {
+      "email": "member@gmail.com",
+      "password": "$2a$10$x15SoAE89cug7ObbCyEM0OaqQ5kTBmJB1f/KvXULtN0ZwonC94aqS",
+      "id": 2
+    },
+    {
+      "email": "member2@gmail.com",
+      "password": "$2a$10$590XBx.sOSfP6gFEnFtTTe4ebGF781tGsxZqrPJ3i2196QrcJyq/y",
+      "id": 3
+    },
+    {
+      "email": "member3@gmail.com",
+      "password": "$2a$10$yJfC1WimCkwUWUwwzDyzTO5q7czJpU4lvXZaq8XBtnyA1lKgoqx.K",
+      "id": 4
+    },
+    {
+      "email": "dafaf@gmail.com",
+      "password": "$2a$10$aMRJ9w.x8X4bQX6KPLLeHOJK68V9qxG5djNgLEuFlNu2bAztcCiVS",
+      "id": 5
+    },
+    {
+      "email": "member100@gmail.com",
+      "password": "$2a$10$Q66peqKcmeyjPycrnDjeQeNROg4/yu1TJQN0o3Qw9OTc4YWtdLnRa",
+      "id": 6
+    },
+    {
+      "email": "123@gmail.com",
+      "password": "$2a$10$JvRhM3t2T5X5UGaZQ5KZpeurbD.Oeo69NdyePAkWh8b9vrKGcuxJm",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "createdAt": "2022-01-10T07:26:52.549Z",
+      "name": "TRÀ KEM SỮA/ MILK FOAM CREAM",
+      "img": "https://jamja.vn/blog/wp-content/uploads/2017/10/goky-49.jpg",
+      "sl":1,
+      "price": "Giá:30.000",
+      "id": "1"
+    },
+    {
+      "createdAt": "2022-01-10T07:26:52.549Z",
+      "name": "SỮA CHUA UỒNG TRÁI CÂY/ YAKULT FRUIT",
+      "img": "https://jamja.vn/blog/wp-content/uploads/2017/10/goky-19.png",
+      "sl":1,
+      "price": "Giá:30.000",
+      "id": "2"
+    },
+    {
+      "createdAt": "2022-01-10T07:26:52.549Z",
+      "name": "TRÀ SỮA SOCOLA",
+      "img": "https://jamja.vn/blog/wp-content/uploads/2017/10/goky-43.jpg",
+      "sl":1,
+      "price": "Giá:30.000",
+      "id": "3"
+    }
+  ]
+}
